@@ -1,0 +1,12 @@
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+E:\dev\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

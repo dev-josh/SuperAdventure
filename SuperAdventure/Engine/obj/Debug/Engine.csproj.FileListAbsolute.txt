@@ -1,0 +1,6 @@
+E:\dev\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.dll
+E:\dev\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.pdb
+E:\dev\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+E:\dev\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+E:\dev\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.dll
+E:\dev\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.pdb
